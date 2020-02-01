@@ -1,0 +1,926 @@
+﻿Log file open, 02/01/20 03:16:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Repair
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279074
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic/UE4/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.01-03.16.22:311][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-03.16.22:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.01-03.16.22:312][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.01-03.16.22:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-03.16.22:313][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-03.16.22:328][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-03.16.22:328][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-03.16.22:329][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-03.16.22:330][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-03.16.22:330][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-03.16.22:330][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.01-03.16.22:351][  0]LogHAL: Display: Platform has ~ 32 GB [34271985664 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.01-03.16.22:351][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.01-03.16.22:351][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.01-03.16.22:351][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-03.16.22:352][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-03.16.22:353][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-03.16.22:354][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.01-03.16.22:354][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.01-03.16.22:354][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-03.16.22:354][  0]LogInit: Computer: D105-39
+[2020.02.01-03.16.22:354][  0]LogInit: User: f011369h
+[2020.02.01-03.16.22:354][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.01-03.16.22:355][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.01-03.16.22:355][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.02.01-03.16.22:355][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.01-03.16.22:355][  0]LogMemory: Process Physical Memory: 96.50 MB used, 96.51 MB peak
+[2020.02.01-03.16.22:355][  0]LogMemory: Process Virtual Memory: 90.40 MB used, 90.40 MB peak
+[2020.02.01-03.16.22:355][  0]LogMemory: Physical Memory: 7415.68 MB used,  25268.63 MB free, 32684.31 MB total
+[2020.02.01-03.16.22:355][  0]LogMemory: Virtual Memory: 4644.23 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.02.01-03.16.22:393][  0]LogInit: Using OS detected language (en-US).
+[2020.02.01-03.16.22:393][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.01-03.16.22:394][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.01-03.16.22:572][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.01-03.16.22:607][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.01-03.16.22:607][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.01-03.16.22:828][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-03.16.22:828][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.01-03.16.22:901][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.02.01-03.16.22:901][  0]LogD3D11RHI:       8088/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.01-03.16.22:904][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.01-03.16.22:904][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.01-03.16.22:904][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.01-03.16.22:913][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.01-03.16.22:914][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.01-03.16.22:914][  0]LogWindows: EnumDisplayDevices:
+[2020.02.01-03.16.22:914][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.02.01-03.16.22:914][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.02.01-03.16.22:914][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.01-03.16.22:915][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.02.01-03.16.22:915][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.01-03.16.22:915][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.02.01-03.16.22:915][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.02.01-03.16.22:915][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.02.01-03.16.22:915][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.02.01-03.16.22:961][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.01-03.16.22:965][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-03.16.22:965][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-03.16.22:965][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-03.16.22:974][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.01-03.16.23:410][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.01-03.16.23:429][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.01-03.16.23:445][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.01-03.16.23:460][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.01-03.16.23:476][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.01-03.16.23:492][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.01-03.16.23:506][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.01-03.16.23:521][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.01-03.16.23:528][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.01-03.16.23:623][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.01-03.16.23:626][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.01-03.16.23:676][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.01-03.16.23:676][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.01-03.16.23:701][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.01-03.16.23:701][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.01-03.16.23:714][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.01-03.16.23:727][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.01-03.16.23:739][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.01-03.16.23:753][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.01-03.16.23:800][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.01-03.16.23:800][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.01-03.16.23:800][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.01-03.16.23:809][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.01-03.16.23:867][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Intermediate/Shaders/WorkingDirectory/13836/).
+[2020.02.01-03.16.23:867][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/f011369h/AppData/Local/Temp/UnrealShaderWorkingDir/010A25914E584D8DCD2EB896F20D850D/'.
+[2020.02.01-03.16.23:870][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.01-03.16.23:870][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.01-03.16.23:870][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.01-03.16.24:604][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.01-03.16.24:654][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/f011369h/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.01-03.16.24:654][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/f011369h/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.01-03.16.24:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.01-03.16.24:655][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.01-03.16.24:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-03.16.24:655][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.01-03.16.24:668][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.01-03.16.24:668][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-03.16.24:668][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.01-03.16.24:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/f011369h/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.01-03.16.24:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.01-03.16.24:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.01-03.16.24:704][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.01-03.16.24:705][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.01-03.16.24:706][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.01-03.16.24:793][  0]LogAssetRegistry: FAssetRegistry took 0.0338 seconds to start up
+[2020.02.01-03.16.25:210][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-03.16.25:361][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.01-03.16.25:361][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.01-03.16.25:361][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.01-03.16.25:361][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.01-03.16.25:361][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.01-03.16.25:372][  0]LogNetVersion: Repair 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1034535550)
+[2020.02.01-03.16.25:805][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.052182 seconds
+[2020.02.01-03.16.25:815][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.01-03.16.25:815][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.01-03.16.25:815][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.01-03.16.26:966][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.01-03.16.26:980][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.01-03.16.27:093][  0]SourceControl: Source control is disabled
+[2020.02.01-03.16.27:093][  0]SourceControl: Source control is disabled
+[2020.02.01-03.16.27:096][  0]SourceControl: Source control is disabled
+[2020.02.01-03.16.27:098][  0]SourceControl: Source control is disabled
+[2020.02.01-03.16.27:203][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.01-03.16.27:280][  0]LogOcInput: OculusInput pre-init called
+[2020.02.01-03.16.28:041][  0]LogEngine: Initializing Engine...
+[2020.02.01-03.16.28:042][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-03.16.28:043][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.01-03.16.28:274][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.01-03.16.28:288][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.01-03.16.28:303][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-03.16.28:336][  0]LogInit: FAudioDevice initialized.
+[2020.02.01-03.16.28:336][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.01-03.16.28:776][  0]LogDerivedDataCache: Saved boot cache 0.44s 71MB C:/Users/f011369h/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.01-03.16.28:787][  0]LogInit: Texture streaming: Enabled
+[2020.02.01-03.16.28:809][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.01-03.16.28:831][  0]LogInit: Transaction tracking system initialized
+[2020.02.01-03.16.28:857][  0]BlueprintLog: New page: Editor Load
+[2020.02.01-03.16.28:938][  0]LocalizationService: Localization service is disabled
+[2020.02.01-03.16.29:320][  0]LogFileCache: Scanning file cache for directory 'C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/' took 0.03s
+[2020.02.01-03.16.29:320][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.01-03.16.29:320][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.01-03.16.29:515][  0]SourceControl: Source control is disabled
+[2020.02.01-03.16.29:515][  0]Cmd: MAP LOAD FILE="../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-03.16.29:515][  0]LightingResults: New page: Lighting Build
+[2020.02.01-03.16.29:518][  0]MapCheck: New page: Map Check
+[2020.02.01-03.16.29:518][  0]LightingResults: New page: Lighting Build
+[2020.02.01-03.16.29:546][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.01-03.16.34:355][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.16.34:514][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-03.16.34:559][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.01-03.16.34:559][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-03.16.34:560][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.285ms to complete.
+[2020.02.01-03.16.34:560][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.037
+[2020.02.01-03.16.35:022][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.16.35:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.16.35:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.16.35:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.16.35:100][  0]LogCollectionManager: Loaded 0 collections in 0.001863 seconds
+[2020.02.01-03.16.35:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Collections/' took 0.01s
+[2020.02.01-03.16.35:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/Developers/f011369h/Collections/' took 0.01s
+[2020.02.01-03.16.35:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/Collections/' took 0.01s
+[2020.02.01-03.16.35:207][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.01-03.16.35:217][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2732 classes and 659 folders.
+[2020.02.01-03.16.35:459][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.01-03.16.35:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:989][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.35:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:081][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:153][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.36:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-03.16.37:776][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.01-03.16.37:829][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.02.01-03.16.38:006][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.01-03.16.38:009][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.01-03.16.38:081][  0]LogSlate: Took 0.061967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.01-03.16.38:728][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-03.16.38:863][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.01-03.16.38:863][  0]LogLoad: (Engine Initialization) Total time: 19.13 seconds
+[2020.02.01-03.16.38:863][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.01-03.16.38:936][  0]LogAssetRegistry: Asset discovery search completed in 14.1421 seconds
+[2020.02.01-03.16.38:939][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.01-03.16.38:939][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2020.02.01-03.16.38:941][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.01-03.16.39:132][  0]LogSlate: Took 0.169785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-03.16.40:229][  4]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-03.18.04:007][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.18.19:690][111]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/BaseAI.BaseAI
+[2020.02.01-03.18.20:335][111]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.02.01-03.18.21:731][111]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/AIHealthBar.AIHealthBar
+[2020.02.01-03.18.22:035][111]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.02.01-03.18.22:505][111]LogSlate: Took 0.019948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-03.18.26:454][536]LogSlate: Took 0.029346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.01-03.18.33:659][318]BlueprintLog: New page: Compile AIHealthBar
+[2020.02.01-03.18.33:926][318]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.02.01-03.18.34:433][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/AIHealthBar" FILE="../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/AIHealthBar.uasset" SILENT=true
+[2020.02.01-03.18.34:466][359]LogSavePackage: Moving '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/AIHealthBar9E95337840248F7EF8DA7098EB6371DF.tmp' to '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/AIHealthBar.uasset'
+[2020.02.01-03.18.35:705][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.18.35:807][496]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-03.18.35:826][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.18.35:826][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-03.18.35:842][496]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 03:18:35)
+[2020.02.01-03.18.35:854][496]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.18.35:883][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028385s)
+[2020.02.01-03.18.35:883][496]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.18.35:883][496]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2020.02.01-03.18.35:883][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029634s)
+[2020.02.01-03.18.35:928][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.02.01-03.18.35:932][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-03.18.35:946][496]LogInit: FAudioDevice initialized.
+[2020.02.01-03.18.36:101][496]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-03.18.36:108][496]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-03.18.36
+[2020.02.01-03.18.36:110][496]LogWorld: Bringing up level for play took: 0.007125
+[2020.02.01-03.18.36:130][496]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.01-03.18.36:141][496]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.01-03.18.36:142][496]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.02.01-03.18.36:144][496]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.479
+[2020.02.01-03.18.36:144][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.18.37:949][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.18.37:949][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.18.37:981][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-03.18.37:982][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.18.38:027][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.18.38:073][655]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2020.02.01-03.18.38:099][656]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.01-03.18.39:717][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.18.51:038][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.18.51:113][188]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-03.18.51:131][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.18.51:131][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-03.18.51:131][188]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 03:18:51)
+[2020.02.01-03.18.51:131][188]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.18.51:150][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017969s)
+[2020.02.01-03.18.51:150][188]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.18.51:151][188]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2020.02.01-03.18.51:151][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019408s)
+[2020.02.01-03.18.51:227][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.02.01-03.18.51:232][188]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-03.18.51:247][188]LogInit: FAudioDevice initialized.
+[2020.02.01-03.18.51:278][188]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-03.18.51:281][188]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-03.18.51
+[2020.02.01-03.18.51:282][188]LogWorld: Bringing up level for play took: 0.003312
+[2020.02.01-03.18.51:296][188]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.673
+[2020.02.01-03.18.51:296][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.19.20:054][614]LogScript: Warning: Attempted to access Door_BP_2 via property Door_Ref, but Door_BP_2 is pending kill
+	Generator_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Generator_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Generator_BP.Generator_BP_C:ScrapCheck:0044
+[2020.02.01-03.19.20:054][614]PIE: Error: Blueprint Runtime Error: "Attempted to access Door_BP_2 via property Door_Ref, but Door_BP_2 is pending kill". Blueprint:  Generator_BP Function:  Scrap Check Graph:  ScrapCheck Node:  Open Door
+[2020.02.01-03.19.29:472][744]LogScript: Warning: Attempted to access Door_BP_2 via property Door_Ref, but Door_BP_2 is pending kill
+	Generator_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Generator_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Generator_BP.Generator_BP_C:ScrapCheck:0044
+[2020.02.01-03.19.29:472][744]PIE: Error: Blueprint Runtime Error: "Attempted to access Door_BP_2 via property Door_Ref, but Door_BP_2 is pending kill". Blueprint:  Generator_BP Function:  Scrap Check Graph:  ScrapCheck Node:  Open Door
+[2020.02.01-03.19.40:708][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.19.40:709][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.19.40:740][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-03.19.40:740][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.19.40:784][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.19.40:789][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.02.01-03.19.40:797][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.01-03.19.40:826][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.01-03.19.56:128][920]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-03.19.56:131][920]LogSlate: Window 'Message Log' being destroyed
+[2020.02.01-03.20.02:147][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.20.02:331][656]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/AIBase.AIBase
+[2020.02.01-03.22.07:597][159]BlueprintLog: New page: Compile BaseAI
+[2020.02.01-03.22.07:830][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.02.01-03.22.08:506][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BaseAI" FILE="../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset" SILENT=true
+[2020.02.01-03.22.08:577][223]LogSavePackage: Moving '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/BaseAIB160C2FE4BCA0020174866A4CF97B7F0.tmp' to '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset'
+[2020.02.01-03.22.22:581][628]BlueprintLog: New page: Compile BaseAI
+[2020.02.01-03.22.22:829][628]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.02.01-03.22.23:282][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BaseAI" FILE="../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset" SILENT=true
+[2020.02.01-03.22.23:348][653]LogSavePackage: Moving '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/BaseAI5E69DC5F413E3CAEC671EC89F17FBD47.tmp' to '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset'
+[2020.02.01-03.22.29:217][195]BlueprintLog: New page: Compile BaseAI
+[2020.02.01-03.22.29:433][195]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.02.01-03.22.30:304][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BaseAI" FILE="../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset" SILENT=true
+[2020.02.01-03.22.30:374][269]LogSavePackage: Moving '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/BaseAI1E8E320D44B0D27171671B802E4FBC2D.tmp' to '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset'
+[2020.02.01-03.23.05:080][255]BlueprintLog: New page: Compile BaseAI
+[2020.02.01-03.23.05:295][255]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.02.01-03.23.05:800][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BaseAI" FILE="../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset" SILENT=true
+[2020.02.01-03.23.05:866][286]LogSavePackage: Moving '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/BaseAI9233D69C460C40127ABEA5B3DF3338C0.tmp' to '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset'
+[2020.02.01-03.23.14:474][204]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-03.23.14:504][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.23.14:505][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-03.23.14:505][204]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 03:23:14)
+[2020.02.01-03.23.14:505][204]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.23.14:520][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014946s)
+[2020.02.01-03.23.14:521][204]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.23.14:521][204]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2020.02.01-03.23.14:521][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016266s)
+[2020.02.01-03.23.14:566][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.02.01-03.23.14:570][204]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-03.23.14:585][204]LogInit: FAudioDevice initialized.
+[2020.02.01-03.23.14:615][204]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-03.23.14:618][204]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-03.23.14
+[2020.02.01-03.23.14:619][204]LogWorld: Bringing up level for play took: 0.002756
+[2020.02.01-03.23.14:633][204]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.01
+[2020.02.01-03.23.14:633][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.23.40:283][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.23.40:284][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.23.40:320][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-03.23.40:320][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.23.40:362][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.23.40:368][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.02.01-03.23.40:392][269]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.01-03.23.44:453][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.24.11:794][104]BlueprintLog: New page: Compile BaseAI
+[2020.02.01-03.24.12:075][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.02.01-03.24.12:514][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BaseAI" FILE="../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset" SILENT=true
+[2020.02.01-03.24.12:581][132]LogSavePackage: Moving '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/BaseAIE0B0B1904AC3DA3E7235D2946B00046F.tmp' to '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset'
+[2020.02.01-03.24.15:151][388]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-03.24.15:172][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.24.15:172][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-03.24.15:172][388]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 03:24:15)
+[2020.02.01-03.24.15:172][388]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.24.15:187][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014518s)
+[2020.02.01-03.24.15:187][388]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.24.15:187][388]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2020.02.01-03.24.15:188][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015371s)
+[2020.02.01-03.24.15:231][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.02.01-03.24.15:236][388]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-03.24.15:250][388]LogInit: FAudioDevice initialized.
+[2020.02.01-03.24.15:278][388]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-03.24.15:281][388]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-03.24.15
+[2020.02.01-03.24.15:281][388]LogWorld: Bringing up level for play took: 0.002673
+[2020.02.01-03.24.15:295][388]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.671
+[2020.02.01-03.24.15:295][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.24.23:425][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.24.23:426][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.24.23:460][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-03.24.23:461][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.24.23:506][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.24.23:511][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.02.01-03.24.23:532][359]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.01-03.24.24:465][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.26.30:409][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.26.40:624][ 45]BlueprintLog: New page: Compile BaseAI
+[2020.02.01-03.26.40:865][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.02.01-03.26.41:367][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BaseAI" FILE="../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset" SILENT=true
+[2020.02.01-03.26.41:454][ 76]LogSavePackage: Moving '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/BaseAI0BB13E06467DD460BC6E779A617438D1.tmp' to '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/BaseAI.uasset'
+[2020.02.01-03.26.42:388][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.26.43:138][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.26.43:547][289]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.01-03.26.43:575][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.26.43:575][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-03.26.43:575][289]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 03:26:43)
+[2020.02.01-03.26.43:575][289]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-03.26.43:589][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013784s)
+[2020.02.01-03.26.43:590][289]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-03.26.43:590][289]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2020.02.01-03.26.43:590][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014664s)
+[2020.02.01-03.26.43:634][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.02.01-03.26.43:639][289]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-03.26.43:652][289]LogInit: FAudioDevice initialized.
+[2020.02.01-03.26.43:683][289]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-03.26.43:686][289]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.01-03.26.43
+[2020.02.01-03.26.43:686][289]LogWorld: Bringing up level for play took: 0.002679
+[2020.02.01-03.26.43:700][289]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.089
+[2020.02.01-03.26.43:700][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.28.02:283][702]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.02:761][759]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.03:263][816]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.03:545][850]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.03:762][876]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.04:263][936]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.04:762][996]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.05:262][ 56]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.05:545][ 90]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.05:763][116]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.06:262][176]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.06:763][236]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.07:262][296]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.07:545][330]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.07:763][356]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.08:262][416]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.08:762][476]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.09:262][536]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.09:545][570]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.09:762][596]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.10:262][656]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.10:765][716]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.11:265][776]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.11:548][810]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.11:765][836]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.12:264][896]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.12:765][956]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.13:264][ 16]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.13:548][ 50]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.13:765][ 76]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.14:265][136]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.14:765][196]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.15:265][256]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.15:549][290]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.15:765][316]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.16:267][376]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.16:768][436]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.17:268][496]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.17:543][529]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.17:768][556]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.18:268][616]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.18:773][676]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.19:273][736]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.19:548][769]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.19:773][796]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.20:273][856]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.20:774][916]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.21:275][969]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.21:542][  1]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.21:775][ 29]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.22:275][ 89]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.22:775][149]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.23:276][209]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.23:542][241]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.23:775][269]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.24:276][329]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.24:776][389]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.25:276][449]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.25:541][481]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.25:775][509]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.26:275][569]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.26:777][629]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.27:277][689]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.27:544][721]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.27:777][749]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.28:277][809]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.28:779][869]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.29:280][929]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.29:545][961]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.29:779][989]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.30:279][ 49]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.30:780][109]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.31:280][169]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.31:546][201]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.31:780][229]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.32:279][289]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.32:784][349]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.33:286][409]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.33:547][440]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.33:790][469]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.34:290][529]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.34:791][589]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.35:291][649]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.35:541][679]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.35:791][709]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.36:292][769]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.36:791][829]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.37:291][889]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.37:542][919]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.37:791][949]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.38:292][  9]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.38:793][ 69]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.39:293][129]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.39:543][159]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.39:792][189]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.40:293][249]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.40:798][309]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.41:299][369]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.41:540][398]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.41:798][429]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.42:298][489]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.42:801][549]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.43:302][609]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.43:544][638]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.43:802][669]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.44:302][729]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.44:807][789]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.45:307][849]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.45:541][877]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.45:808][909]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.46:307][969]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.46:811][ 29]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.47:311][ 89]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.47:544][117]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.47:811][149]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.48:312][209]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.48:819][267]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.49:320][327]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.49:545][354]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.49:820][387]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.50:321][447]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.50:828][506]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.51:327][566]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.51:538][591]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.51:831][626]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.52:330][686]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.52:836][746]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.53:339][806]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.53:539][830]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.53:840][866]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.54:342][926]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.54:847][986]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.55:352][ 46]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.55:544][ 69]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.55:854][106]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.56:362][166]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.56:865][224]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.57:365][284]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.57:540][305]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.57:866][344]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.58:370][404]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.58:872][462]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.59:379][522]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.59:538][541]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.28.59:880][582]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.00:389][642]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.00:891][702]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.01:392][762]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.01:537][779]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.01:896][822]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.02:402][882]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.02:903][941]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.03:406][  1]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.03:539][ 17]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.03:906][ 61]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.04:411][121]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.04:912][178]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.05:420][238]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.05:538][252]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.05:921][298]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.06:429][358]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.06:933][416]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.07:438][476]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.07:538][488]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.07:939][536]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.08:439][595]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.08:945][653]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.09:447][712]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.09:541][723]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.09:954][772]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.10:454][830]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.10:961][889]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.11:468][949]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.11:538][957]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.11:976][  9]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.12:482][ 67]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.01-03.29.12:559][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-03.29.12:644][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.29.12:647][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.29.12:680][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-03.29.12:680][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-03.29.12:730][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-03.29.12:737][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.02.01-03.29.12:752][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.01-03.30.34:090][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.02.01-03.30.34:322][833]LogSavePackage: Moving '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/ThirdPersonExampleMap_Auto1065260BE4E7F746B4216A7BAECDC9751.tmp' to '../../../../../../Users/f011369h/Documents/GGJ2020_SmartCookies/Repair/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.02.01-03.30.34:329][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.275
+[2020.02.01-03.30.34:329][833]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.275
