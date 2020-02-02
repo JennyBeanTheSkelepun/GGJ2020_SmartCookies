@@ -1,0 +1,1195 @@
+﻿Log file open, 02/01/20 17:25:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Repair
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.391484
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-17.25.15:866][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.01-17.25.15:866][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.01-17.25.15:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-17.25.15:867][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-17.25.15:870][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-17.25.15:870][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-17.25.15:871][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-17.25.15:871][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-17.25.15:871][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.01-17.25.15:883][  0]LogHAL: Display: Platform has ~ 8 GB [8428204032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.01-17.25.15:883][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.01-17.25.15:883][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-17.25.15:883][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.01-17.25.15:884][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Config/Windows/Engine.ini]
+[2020.02.01-17.25.15:884][  0]LogInit: Computer: MSI
+[2020.02.01-17.25.15:884][  0]LogInit: User: Scott
+[2020.02.01-17.25.15:884][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.01-17.25.15:884][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.01-17.25.15:884][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.02.01-17.25.15:884][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.01-17.25.15:884][  0]LogMemory: Process Physical Memory: 97.38 MB used, 97.38 MB peak
+[2020.02.01-17.25.15:884][  0]LogMemory: Process Virtual Memory: 93.61 MB used, 93.61 MB peak
+[2020.02.01-17.25.15:884][  0]LogMemory: Physical Memory: 4747.13 MB used,  3290.63 MB free, 8037.76 MB total
+[2020.02.01-17.25.15:884][  0]LogMemory: Virtual Memory: 4664.14 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.02.01-17.25.16:108][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.01-17.25.16:108][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.01-17.25.16:108][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.01-17.25.16:243][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.01-17.25.16:276][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.01-17.25.16:276][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.01-17.25.17:155][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-17.25.17:155][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.01-17.25.17:283][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.02.01-17.25.17:283][  0]LogD3D11RHI:       4021/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.01-17.25.17:304][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.01-17.25.17:304][  0]LogD3D11RHI:       128/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.01-17.25.17:306][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.01-17.25.17:306][  0]LogD3D11RHI:       0/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.01-17.25.17:306][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.01-17.25.17:332][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.01-17.25.17:332][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.02.01-17.25.17:332][  0]LogWindows: EnumDisplayDevices:
+[2020.02.01-17.25.17:332][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.02.01-17.25.17:333][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2020.02.01-17.25.17:333][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.01-17.25.17:333][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.01-17.25.17:333][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.02.01-17.25.17:333][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.01-17.25.17:333][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.01-17.25.17:333][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.02.01-17.25.17:370][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.01-17.25.17:383][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-17.25.17:383][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-17.25.17:383][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.01-17.25.17:391][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.01-17.25.17:655][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.01-17.25.17:666][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.01-17.25.17:678][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.01-17.25.17:689][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.01-17.25.17:700][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.01-17.25.17:711][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.01-17.25.17:722][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.01-17.25.17:733][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.01-17.25.17:737][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.01-17.25.17:805][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.01-17.25.17:806][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.01-17.25.17:849][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.01-17.25.17:849][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.01-17.25.17:869][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.01-17.25.17:869][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.01-17.25.17:878][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.01-17.25.17:888][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.01-17.25.17:899][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.01-17.25.17:909][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.01-17.25.17:950][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.01-17.25.17:950][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.01-17.25.17:951][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.01-17.25.17:956][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.01-17.25.17:984][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Intermediate/Shaders/WorkingDirectory/16500/).
+[2020.02.01-17.25.17:985][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Scott/AppData/Local/Temp/UnrealShaderWorkingDir/9633330345136856B85CC9A7F36BC895/'.
+[2020.02.01-17.25.17:985][  0]LogXGEController: Cleaning working directory: C:/Users/Scott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.01-17.25.17:986][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.01-17.25.17:986][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.01-17.25.17:986][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.01-17.25.18:456][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.01-17.25.18:504][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.01-17.25.18:504][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.01-17.25.18:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.01-17.25.18:504][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.01-17.25.18:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-17.25.18:504][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.01-17.25.18:515][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.01-17.25.18:515][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-17.25.18:515][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.01-17.25.18:537][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.01-17.25.18:537][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.01-17.25.18:537][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.01-17.25.18:555][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.01-17.25.18:556][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.01-17.25.18:556][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.01-17.25.18:627][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2020.02.01-17.25.18:886][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-17.25.18:996][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.01-17.25.18:996][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.01-17.25.18:996][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.01-17.25.18:996][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.01-17.25.18:996][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.01-17.25.19:005][  0]LogNetVersion: Repair 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1034535550)
+[2020.02.01-17.25.19:328][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035406 seconds
+[2020.02.01-17.25.19:333][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.01-17.25.19:333][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.01-17.25.19:333][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.01-17.25.19:953][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.01-17.25.19:966][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.01-17.25.20:061][  0]SourceControl: Source control is disabled
+[2020.02.01-17.25.20:061][  0]SourceControl: Source control is disabled
+[2020.02.01-17.25.20:062][  0]SourceControl: Source control is disabled
+[2020.02.01-17.25.20:063][  0]SourceControl: Source control is disabled
+[2020.02.01-17.25.20:070][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.01-17.25.20:070][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.01-17.25.20:121][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.01-17.25.20:457][  0]LogOcInput: OculusInput pre-init called
+[2020.02.01-17.25.20:993][  0]LogEngine: Initializing Engine...
+[2020.02.01-17.25.20:994][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-17.25.20:995][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.01-17.25.21:172][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.01-17.25.21:181][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.01-17.25.21:212][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.01-17.25.21:337][  0]LogInit: FAudioDevice initialized.
+[2020.02.01-17.25.21:337][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.01-17.25.21:414][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Scott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.01-17.25.21:418][  0]LogInit: Texture streaming: Enabled
+[2020.02.01-17.25.21:428][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.01-17.25.21:442][  0]LogInit: Transaction tracking system initialized
+[2020.02.01-17.25.21:453][  0]BlueprintLog: New page: Editor Load
+[2020.02.01-17.25.21:505][  0]LocalizationService: Localization service is disabled
+[2020.02.01-17.25.21:600][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.01-17.25.21:600][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.01-17.25.21:734][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Content/' took 0.01s
+[2020.02.01-17.25.21:734][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.01-17.25.21:734][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.01-17.25.21:856][  0]SourceControl: Source control is disabled
+[2020.02.01-17.25.21:857][  0]Cmd: MAP LOAD FILE="C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-17.25.21:857][  0]LightingResults: New page: Lighting Build
+[2020.02.01-17.25.21:858][  0]MapCheck: New page: Map Check
+[2020.02.01-17.25.21:858][  0]LightingResults: New page: Lighting Build
+[2020.02.01-17.25.21:884][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.01-17.25.22:294][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-17.25.22:320][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-17.25.22:347][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.01-17.25.22:347][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-17.25.22:348][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.02.01-17.25.22:348][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.491
+[2020.02.01-17.25.22:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.25.22:441][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.25.22:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.25.22:454][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.25.22:457][  0]LogCollectionManager: Loaded 0 collections in 0.000750 seconds
+[2020.02.01-17.25.22:473][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Collections/' took 0.01s
+[2020.02.01-17.25.22:473][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Content/Developers/Scott/Collections/' took 0.00s
+[2020.02.01-17.25.22:473][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Content/Collections/' took 0.00s
+[2020.02.01-17.25.22:473][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.01-17.25.22:482][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2732 classes and 659 folders.
+[2020.02.01-17.25.22:486][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.01-17.25.22:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-17.25.22:510][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.01-17.25.22:514][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.02.01-17.25.23:434][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.01-17.25.23:455][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.01-17.25.23:457][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.01-17.25.23:462][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.01-17.25.23:545][  0]LogRenderer: Reallocating scene render targets to support 1188x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-17.25.23:682][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.01-17.25.23:682][  0]LogLoad: (Engine Initialization) Total time: 9.20 seconds
+[2020.02.01-17.25.23:682][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.01-17.25.23:770][  0]LogAssetRegistry: Asset discovery search completed in 5.1661 seconds
+[2020.02.01-17.25.23:772][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.01-17.25.23:772][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2020.02.01-17.25.23:773][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.01-17.25.23:804][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-17.25.24:723][ 52]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-17.25.26:626][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.25.26:746][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.01-17.25.26:979][170]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.02.01-17.25.27:678][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP
+[2020.02.01-17.25.28:007][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Generator_BP.Generator_BP
+[2020.02.01-17.25.28:323][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Platform_BP.Platform_BP
+[2020.02.01-17.25.28:610][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Ladder_BP.Ladder_BP
+[2020.02.01-17.25.28:900][170]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.01-17.25.29:014][171]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.01-17.25.33:311][409]LogSlate: Window 'Ladder_BP' being destroyed
+[2020.02.01-17.27.24:834][ 93]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/PauseGame_UI.PauseGame_UI
+[2020.02.01-17.27.25:211][ 93]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.02.01-17.27.37:280][790]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-17.27.38:172][840]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-17.27.38:578][861]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-17.27.38:969][881]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.01-17.27.45:316][253]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI
+[2020.02.01-17.27.51:133][564]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/GameOver_Wid.GameOver_Wid
+[2020.02.01-17.27.53:497][686]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Generator_Wid.Generator_Wid
+[2020.02.01-17.27.56:197][825]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/InGameUI_Wid.InGameUI_Wid
+[2020.02.01-17.27.58:730][956]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Interact_Int.Interact_Int
+[2020.02.01-17.28.14:933][850]LogSlate: Took 0.089138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.01-17.28.29:255][683]Cmd: TRANSACTION UNDO
+[2020.02.01-17.28.29:255][683]LogEditorTransaction: Undo Edit Color and Opacity
+[2020.02.01-17.28.38:101][197]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or Button /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.SKEL_MainMenu_UI_C:Start_Butt
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or ObjectProperty /Engine/Transient.REINST_MainMenu_UI_C_3:Start_Butt
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or Button /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:WidgetTree.Start_Butt
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or Button /Engine/Transient.World_17:MainMenu_UI_C_0.WidgetTree_0.Start_Butt
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or Button /Engine/Transient.World_17:MainMenu_UI_C_1.WidgetTree_0.Start_Butt
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt.ButtonSlot_0 or ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:WidgetTree.Start_Butt.ButtonSlot_0
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt.ButtonSlot_0 or ButtonSlot /Engine/Transient.World_17:MainMenu_UI_C_0.WidgetTree_0.Start_Butt.ButtonSlot_0
+[2020.02.01-17.28.55:431][215]LogUObjectHash: Warning: Ambiguous search, could be ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt.ButtonSlot_0 or ButtonSlot /Engine/Transient.World_17:MainMenu_UI_C_1.WidgetTree_0.Start_Butt.ButtonSlot_0
+[2020.02.01-17.28.55:431][215]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt.ButtonSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_47).  Import failed...
+[2020.02.01-17.28.55:431][215]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'ButtonSlot'"Start_Butt.ButtonSlot_0"''
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or Button /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.SKEL_MainMenu_UI_C:Start_Butt
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or ObjectProperty /Engine/Transient.REINST_MainMenu_UI_C_3:Start_Butt
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or Button /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:WidgetTree.Start_Butt
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or Button /Engine/Transient.World_17:MainMenu_UI_C_0.WidgetTree_0.Start_Butt
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ObjectProperty /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:Start_Butt or Button /Engine/Transient.World_17:MainMenu_UI_C_1.WidgetTree_0.Start_Butt
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt.ButtonSlot_0 or ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI_C:WidgetTree.Start_Butt.ButtonSlot_0
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt.ButtonSlot_0 or ButtonSlot /Engine/Transient.World_17:MainMenu_UI_C_0.WidgetTree_0.Start_Butt.ButtonSlot_0
+[2020.02.01-17.28.58:986][418]LogUObjectHash: Warning: Ambiguous search, could be ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt.ButtonSlot_0 or ButtonSlot /Engine/Transient.World_17:MainMenu_UI_C_1.WidgetTree_0.Start_Butt.ButtonSlot_0
+[2020.02.01-17.28.58:986][418]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ButtonSlot /Game/ThirdPersonBP/Blueprints/MainMenu_UI.MainMenu_UI:WidgetTree.Start_Butt.ButtonSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_47).  Import failed...
+[2020.02.01-17.28.58:986][418]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'ButtonSlot'"Start_Butt.ButtonSlot_0"''
+[2020.02.01-17.29.16:606][462]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.01-17.30.31:998][926]BlueprintLog: New page: Compile GameOver_Wid
+[2020.02.01-17.30.32:386][926]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.02.01-17.30.32:987][955]LogSavePackage: Moving 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/GameOver_WidFB21153342905C577D358A96E2E3986B.tmp' to 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/Blueprints/GameOver_Wid.uasset'
+[2020.02.01-17.31.06:677][974]BlueprintLog: New page: Compile GameOver_Wid
+[2020.02.01-17.31.06:725][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.01-17.31.07:460][ 15]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-17.31.07:501][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.31.07:501][ 15]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.01-17.31.07:502][ 15]LogPlayLevel: [PlayLevel] Compiling MainMenu_UI before play...
+[2020.02.01-17.31.08:016][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.02.01-17.31.08:016][ 15]LogPlayLevel: PlayLevel: Blueprint regeneration took 514 ms (1 blueprints)
+[2020.02.01-17.31.08:016][ 15]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 17:31:08)
+[2020.02.01-17.31.08:029][ 15]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-17.31.08:045][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015637s)
+[2020.02.01-17.31.08:046][ 15]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-17.31.08:046][ 15]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2020.02.01-17.31.08:046][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016906s)
+[2020.02.01-17.31.08:081][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.02.01-17.31.08:094][ 15]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.01-17.31.08:161][ 15]LogInit: FAudioDevice initialized.
+[2020.02.01-17.31.08:168][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.31.08:224][ 15]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-17.31.08:227][ 15]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.01-17.31.08
+[2020.02.01-17.31.08:228][ 15]LogWorld: Bringing up level for play took: 0.002776
+[2020.02.01-17.31.08:242][ 15]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.01-17.31.08:243][ 15]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.01-17.31.08:243][ 15]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.01-17.31.08:246][ 15]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.421
+[2020.02.01-17.31.08:246][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.31.08:587][ 17]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-17.31.17:029][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.31.17:029][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.31.17:045][516]LogSlate: Window 'Repair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-17.31.17:078][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.31.17:078][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.31.17:155][516]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2020.02.01-17.31.17:164][517]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.01-17.31.28:952][218]LogEditorViewport: Clicking on Actor (LMB): Generator_BP_C (Generator_BP)
+[2020.02.01-17.31.30:504][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-17.31.30:611][312]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Generator_BP.Generator_BP
+[2020.02.01-17.32.54:872][337]BlueprintLog: New page: Compile Generator_BP
+[2020.02.01-17.32.55:110][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.02.01-17.32.55:700][362]LogSavePackage: Moving 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/Generator_BP57515BBE4D621DA85353D78EB75989E5.tmp' to 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/Blueprints/Generator_BP.uasset'
+[2020.02.01-17.32.57:172][449]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-17.32.57:210][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.32.57:211][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.32.57:211][449]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 17:32:57)
+[2020.02.01-17.32.57:211][449]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-17.32.57:226][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015428s)
+[2020.02.01-17.32.57:227][449]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-17.32.57:227][449]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2020.02.01-17.32.57:227][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016585s)
+[2020.02.01-17.32.57:273][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.02.01-17.32.57:289][449]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.01-17.32.57:359][449]LogInit: FAudioDevice initialized.
+[2020.02.01-17.32.57:366][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.32.57:398][449]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-17.32.57:402][449]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.01-17.32.57
+[2020.02.01-17.32.57:403][449]LogWorld: Bringing up level for play took: 0.003431
+[2020.02.01-17.32.57:419][449]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.406
+[2020.02.01-17.32.57:419][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.33.08:702][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.33.08:702][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.33.08:715][123]LogSlate: Window 'Repair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-17.33.08:752][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.33.08:752][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.33.08:821][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.02.01-17.33.08:878][124]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.01-17.33.09:753][172]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-17.33.09:784][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.33.09:784][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.33.09:784][172]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 17:33:09)
+[2020.02.01-17.33.09:784][172]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-17.33.09:796][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011440s)
+[2020.02.01-17.33.09:796][172]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-17.33.09:797][172]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2020.02.01-17.33.09:797][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012579s)
+[2020.02.01-17.33.09:843][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.02.01-17.33.09:856][172]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.01-17.33.09:921][172]LogInit: FAudioDevice initialized.
+[2020.02.01-17.33.09:928][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.33.09:960][172]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-17.33.09:963][172]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.01-17.33.09
+[2020.02.01-17.33.09:964][172]LogWorld: Bringing up level for play took: 0.003141
+[2020.02.01-17.33.09:980][172]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.154
+[2020.02.01-17.33.09:980][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.33.26:047][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.33.26:048][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.33.26:063][128]LogSlate: Window 'Repair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-17.33.26:104][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.33.26:104][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.33.26:167][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.02.01-17.33.26:224][129]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.01-17.33.39:241][899]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.01-17.33.57:827][963]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-17.33.58:103][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.01-17.33.58:879][  0]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-17.33.58:919][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.33.58:919][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.33.58:919][  0]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 17:33:58)
+[2020.02.01-17.33.58:919][  0]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-17.33.58:935][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015861s)
+[2020.02.01-17.33.58:936][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-17.33.58:937][  0]LogPlayLevel: PIE: World Init took: (0.001503s)
+[2020.02.01-17.33.58:937][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017597s)
+[2020.02.01-17.33.59:001][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.02.01-17.33.59:015][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.01-17.33.59:083][  0]LogInit: FAudioDevice initialized.
+[2020.02.01-17.33.59:091][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.33.59:125][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-17.33.59:128][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.01-17.33.59
+[2020.02.01-17.33.59:128][  0]LogWorld: Bringing up level for play took: 0.002701
+[2020.02.01-17.33.59:143][  0]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.683
+[2020.02.01-17.33.59:143][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.34.02:697][205]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:698][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:714][206]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:714][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:731][207]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:731][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:748][208]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:748][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:764][209]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:765][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:781][210]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:781][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:798][211]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:798][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:815][212]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:815][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:832][213]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:832][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:848][214]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:848][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:865][215]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:865][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:881][216]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:881][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:897][217]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:897][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:914][218]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:914][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:930][219]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:930][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:947][220]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:947][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:964][221]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP_2
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.02:964][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:980][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.02:997][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:014][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:031][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:047][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:064][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:081][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:097][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:114][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:131][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:148][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:164][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:181][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:198][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:214][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:231][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:248][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:265][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:280][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:297][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:314][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:331][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:348][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:365][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:380][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:397][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:414][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:430][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:447][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:464][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:481][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:497][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:514][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:531][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:548][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:564][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:581][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:598][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:615][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:630][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:647][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:664][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:681][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:697][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:714][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:731][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:748][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:770][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:789][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:806][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:823][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:846][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:863][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:880][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:896][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:914][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:932][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:947][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:964][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:981][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.03:998][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:014][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:030][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:047][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:064][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:081][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:098][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:114][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:131][290]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:147][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:164][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:181][293]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:198][294]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:214][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:231][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:247][297]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:263][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:280][299]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:297][300]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:313][301]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:330][302]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:347][303]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:364][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:381][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:397][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:414][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.04:430][308]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:582][437]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:582][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:597][438]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:597][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:615][439]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:615][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:631][440]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:631][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:647][441]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:649][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:664][442]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:665][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:680][443]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:680][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:697][444]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:698][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:714][445]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:714][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:730][446]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:731][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:747][447]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:748][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:763][448]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:764][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:780][449]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:781][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:797][450]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:798][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:814][451]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:814][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:831][452]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:831][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:848][453]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Scrap_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Scrap_BP2_5
+	Function /Game/ThirdPersonBP/Blueprints/Scrap_BP.Scrap_BP_C:ExecuteUbergraph_Scrap_BP:01F9
+[2020.02.01-17.34.06:848][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:864][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:881][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:898][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:914][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:931][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:947][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:964][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:981][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.06:998][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:015][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:031][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:048][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:065][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:080][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:097][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:113][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:130][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:147][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:163][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:180][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:197][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:214][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:230][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:247][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:264][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:280][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:297][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:313][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:330][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:347][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:364][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:380][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:397][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:414][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:430][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:447][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:464][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:481][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:497][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:513][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:530][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:547][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:563][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:580][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:597][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:614][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:630][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:647][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:663][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:680][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:697][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:714][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:731][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:747][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:764][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:781][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:798][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:817][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:833][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:850][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:869][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:886][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:905][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:927][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:944][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:961][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:978][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.07:995][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:012][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:029][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:046][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:062][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:079][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:095][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:112][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:128][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:145][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:163][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:179][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:196][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:212][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:229][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:246][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:262][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:278][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:295][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:312][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:328][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:346][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:362][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:378][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:395][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:412][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:428][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:446][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:462][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:479][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:496][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:513][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:529][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:546][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:563][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:579][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:596][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:613][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:629][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:646][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:663][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:678][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:695][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:712][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:728][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:745][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:762][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:779][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:795][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:812][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:829][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:846][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:862][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:879][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:896][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:912][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:929][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:944][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:961][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:978][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.08:995][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:012][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:028][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:044][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:062][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:078][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:094][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:113][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:130][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:145][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:163][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:178][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.09:195][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.17:919][115]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.17:935][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.17:952][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.17:969][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.17:985][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:002][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:019][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:035][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:052][123]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:069][124]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:086][125]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:103][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:119][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:136][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:152][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:169][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:187][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:202][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:219][133]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:235][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:252][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:269][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:285][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:302][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:319][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:336][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:353][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:369][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:386][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:402][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.18:419][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Scrap_BP Function:  Execute Ubergraph Scrap BP Graph:  EventGraph Node:  SetActorLocation
+[2020.02.01-17.34.27:244][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.34.27:244][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.34.27:261][670]LogSlate: Window 'Repair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-17.34.27:308][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.34.27:309][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.34.27:380][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.01-17.34.27:441][671]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.02.01-17.35.00:501][625]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.01-17.35.00:748][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.02.01-17.35.01:227][639]LogSavePackage: Moving 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Saved/ThirdPersonCharacterDD6758524F87C23211E480B923569ECA.tmp' to 'C:/Users/Scott/Desktop/GGJ2020/GGJ2020_SmartCookies/Repair/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.01-17.35.02:080][690]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.01-17.35.02:123][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.35.02:123][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.01-17.35.02:123][690]PIE: New page: PIE session: ThirdPersonExampleMap (1 Feb 2020 17:35:02)
+[2020.02.01-17.35.02:123][690]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.01-17.35.02:137][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013971s)
+[2020.02.01-17.35.02:137][690]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.01-17.35.02:138][690]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2020.02.01-17.35.02:138][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015052s)
+[2020.02.01-17.35.02:187][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.02.01-17.35.02:200][690]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.01-17.35.02:268][690]LogInit: FAudioDevice initialized.
+[2020.02.01-17.35.02:275][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.35.02:304][690]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.01-17.35.02:307][690]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.01-17.35.02
+[2020.02.01-17.35.02:308][690]LogWorld: Bringing up level for play took: 0.003088
+[2020.02.01-17.35.02:323][690]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.498
+[2020.02.01-17.35.02:323][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.36.08:983][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.36.08:984][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-17.36.09:001][677]LogSlate: Window 'Repair Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.01-17.36.09:052][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.01-17.36.09:052][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.01-17.36.09:127][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.01-17.36.09:212][678]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.02.01-17.36.27:503][744]LogUObjectBase: Warning: Object is not registered
+[2020.02.01-17.36.27:503][744]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.01-17.36.28:820][744]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.316 s
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: 
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: Stack: 
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffabddcc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffabd646fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffabd654e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffacafd37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffac1fb5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffac1f71e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffacd625984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffacd8115e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffacd66d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffacd66a302 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffacd669a4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ff7a3ed7a6a UE4Editor.exe!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ff7a3ee554c UE4Editor.exe!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ff7a3ee55ca UE4Editor.exe!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ff7a3ef316c UE4Editor.exe!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ff7a3ef5b8e UE4Editor.exe!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffb11817bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: [Callstack] 0x00007ffb12b0ced1 ntdll.dll!UnknownFunction []
+[2020.02.01-17.36.28:820][744]LogOutputDevice: Error: 
+[2020.02.01-17.36.28:825][744]LogStats:                SubmitErrorReport -  0.000 s
